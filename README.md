@@ -46,3 +46,9 @@
 ### Video output
 "The first camera v1 picture"
 sudo tztek-jetson-tool-camera-show-cuda /dev/video0 1920 1080
+
+
+
+### QA Please check the user manual “GEAC91VP User Manual v1.1”
+  If you are not clear, please raise issues with me, I will check regularly.
+  thank you
