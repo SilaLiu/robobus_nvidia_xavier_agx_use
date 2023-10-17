@@ -48,7 +48,7 @@
   <img width="587" alt="image" src="https://github.com/SilaLiu/robobus_nvidia_xavier_agx_use/assets/39790272/1d37b444-e151-4d92-9458-d5b5f8cc4216">
 
 ### Video output
-  "The first camera v1 picture"
+  The first camera v1 picture
     sudo tztek-jetson-tool-camera-show-cuda /dev/video0 1920 1080
 
 
