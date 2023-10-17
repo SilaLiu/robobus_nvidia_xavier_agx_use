@@ -49,6 +49,7 @@
 
 ### Video output
   The first camera v1 picture
+  
       sudo tztek-jetson-tool-camera-show-cuda /dev/video0 1920 1080
 
 
