@@ -21,13 +21,13 @@
   tztek-jetson-tool-internal-trigger-camera-v1.1.deb    
   https://drive.google.com/file/d/1DbjF7zrKQX9ddb6Uu8_oAsT-Gdgsgbmu/view?usp=drive_link
 
-  sudo dpkg -i tztek-jetson-service-camera-config-510vp-v2.7.deb
-  sudo dpkg -i tztek-cam-app_2.0.0_arm64.deb
-  sudo dpkg -i tztek-jetson-tool-camera-show-v1.0.deb
-  sudo dpkg -i tztek-jetson-tool-internal-trigger-camera-v1.1.deb
+    sudo dpkg -i tztek-jetson-service-camera-config-510vp-v2.7.deb
+    sudo dpkg -i tztek-cam-app_2.0.0_arm64.deb
+    sudo dpkg -i tztek-jetson-tool-camera-show-v1.0.deb
+    sudo dpkg -i tztek-jetson-tool-internal-trigger-camera-v1.1.deb
   
 ### Modify configuration
-  sudo vim /etc/configure-camera/cam_cfg.ini
+    $sudo vim /etc/configure-camera/cam_cfg.ini
 
   master disposition
 ![telegram-cloud-photo-size-5-6156727128398345738-y](https://github.com/SilaLiu/robobus_nvidia_xavier_agx_use/assets/39790272/43276e27-9407-4fad-8244-203791048da2)
