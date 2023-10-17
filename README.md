@@ -4,6 +4,9 @@
   GEAC91VP User Manual v1.1
   
   https://drive.google.com/file/d/1RDw9sllvRE_9UQxhfdQE6hTSu7PLRZjA/view?usp=drive_link
+
+#### Topology of robobus hardware connections
+  https://github.com/SilaLiu/robobus_nvidia_xavier_agx_use/blob/main/robobus_wire_data.png
   
 ### You need to install the camera-related configuration package first
   tztek-cam-app_2.0.0_arm64 .deb                        
