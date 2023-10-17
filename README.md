@@ -2,6 +2,7 @@
 ---
 
   GEAC91VP User Manual v1.1
+  
   https://drive.google.com/file/d/1RDw9sllvRE_9UQxhfdQE6hTSu7PLRZjA/view?usp=drive_link
   
 ### You need to install the camera-related configuration package first
@@ -49,6 +50,7 @@ sudo tztek-jetson-tool-camera-show-cuda /dev/video0 1920 1080
 
 
 
-### QA Please check the user manual “GEAC91VP User Manual v1.1”
-  If you are not clear, please raise issues with me, I will check regularly.
-  thank you
+### QA 
+  Please check the user manual “GEAC91VP User Manual v1.1”
+    If you are not clear, please raise issues with me, I will check regularly.
+    thank you
