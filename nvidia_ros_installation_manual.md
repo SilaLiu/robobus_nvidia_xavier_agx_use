@@ -33,3 +33,8 @@
   Run ros to test if the installation was successful
     
     roscore
+
+If the following appears, the installation was successful
+
+![image](https://github.com/SilaLiu/robobus_nvidia_xavier_agx_use/assets/39790272/b8e8beda-cde1-4a25-9e9a-c5228c3ec92e)
+
