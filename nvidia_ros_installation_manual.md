@@ -31,4 +31,5 @@
 
 ### Completing the Installation
   Run ros to test if the installation was successful
+    
     roscore
