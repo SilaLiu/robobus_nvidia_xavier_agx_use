@@ -1,6 +1,5 @@
 <img width="813" alt="image" src="https://github.com/SilaLiu/robobus_nvidia_xavier_agx_use/assets/39790272/272cb628-56a4-434b-9759-cca75358f04e">
 
-----
 
 
 ### Configure the /etc/hosts file
