@@ -6,20 +6,20 @@
 #### IPC:
     sudo vim /etc/hosts
 
-    192.168.4.103	    nvidia-master
-    192.168.44.101	    nvidia-desktop
+    192.168.4.103        nvidia-master
+    192.168.44.101       nvidia-desktop
 
 #### nvidia-master:
     sudo vim /etc/hosts
 
-    192.168.4.103	    nvidia-master
-    192.168.4.88		t-Default-string
+    192.168.4.103        nvidia-master
+    192.168.4.88         t-Default-string
 
 #### nvidia-desktop:
     sudo vim /etc/hosts
 
-    192.168.44.101	    nvidia-desktop
-    192.168.4.88		t-Default-string
+    192.168.44.101       nvidia-desktop
+    192.168.4.88         t-Default-string
 
 
 
