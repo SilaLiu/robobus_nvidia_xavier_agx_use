@@ -29,20 +29,24 @@
 #### IPC-IP：192.168.4.88
     sudo vim ~/.bashrc
 
-    export ROS_HOSTNAME=t-Default-string				            # ros master ip 
-    export ROS_MASTER_URI=http://t-Default-string:11311	            # ros master URI
+    export ROS_HOSTNAME=t-Default-string                # ros master ip 
+    export ROS_MASTER_URI=http://t-Default-string:11311                # ros master URI
 
 
 #### nvidia-master-IP:192.168.4.103
     sudo vim ~/.bashrc
 
-    export ROS_HOSTNAME=nvidia-master					            # ros slave 1
-    export ROS_MASTER_URI=http://t-Default-string:11311	            # ros master URI
+    export ROS_HOSTNAME=nvidia-master                # ros slave 1
+    export ROS_MASTER_URI=http://t-Default-string:11311                # ros master URI
 
 
 #### nvidia-desktop-IP:192.168.44.101
     sudo vim ~/.bashrc
-    export ROS_HOSTNAME=nvidia-desktop				                # ros slave 2
-    export ROS_MASTER_URI=http://t-Default-string:11311	            # ros master URI
+    export ROS_HOSTNAME=nvidia-desktop                # ros slave 2
+    export ROS_MASTER_URI=http://t-Default-string:11311                # ros master URI
 
 
+### run 
+    IPC:$roscore
+    nvidia-master:$rostopic list
+    nvidia-desktop:$rostopic list
